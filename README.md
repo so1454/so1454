@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm sohyeon gu</h1>
 <h3 align="center">A passionate backend developer from south-korea</h3>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
