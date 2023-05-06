@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sohyun.;I'm+Currently+learning+All+Things+Data.;I'm+Currently+learning+Spring.;I'm+interested+in+Web.;Thanks+for+coming+to+my+git+hub+😊&size=35&font=Lobster&center=true&color=FD785B&height=70&vCenter=true&width=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sohyun.;I'm+Currently+learning+All+Things+Data.;I'm+Currently+learning+Spring.;I'm+interested+in+Web.;Thanks+for+coming+to+my+git+hub+😊&size=50&font=Lobster&center=true&color=FD785B&height=100&vCenter=true&width=1000)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+too+meet+you.;MachineLearning,+and+DeepLearning.;spring;Html+CSS+and+JavaScript.;thank+you.&size=25&font=Lobster&center=true&color=FD927B&height=40&vCenter=true&width=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+too+meet+you.;MachineLearning,+and+DeepLearning.;spring;Html+CSS+and+JavaScript.;thank+you.&size=35&font=Lobster&center=true&color=FD927B&height=40&vCenter=true&width=1000)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=so1454)](https://github.com/ashutosh00710/github-readme-activity-graph)
