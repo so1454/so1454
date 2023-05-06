@@ -6,15 +6,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=so1454)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-- 🔭 I’m currently working on **Be careful and take your medicine(temporary)**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sohyun.;I'm+Currently+learning+All+Things+Data.;I'm+Currently+learning+Spring.;I'm+interested+in+Web.;Thanks+for+coming+to+my+git+hub+😊&size=35&font=Lobster&center=true&color=FD785B&height=70)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+too+meet+you.;MachineLearning,+and+DeepLearning.;spring;Html+CSS+and+JavaScript.;thank+you.&size=25&font=Lobster&center=true&color=FD927B&height=40)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Spring,distributed processing,deep learning**
 
-- 👯 I’m looking to collaborate on [OTT-project](https://github.com/2021-SMHRD-KDT-BigData-16/WWW_FirstRepo.git)
-
-- 📝 I regularly write articles on [https://blog.naver.com/be__fresh](https://blog.naver.com/be__fresh)
-
-- 📫 How to reach me **so1454@naver.com / sohyeon90519@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
