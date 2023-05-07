@@ -8,7 +8,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=so1454)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=so1454&hide=contribs,prs&show_icons=true&title_color=ffc300&icon_color=ffd60a&text_color=ffffff&bg_color=000814)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=so1454&hide=contribs,prs&show_icons=true&title_color=ffc300&icon_color=ffd60a&text_color=ffffff&bg_color=000814&border_radius=7)
 
 
 
