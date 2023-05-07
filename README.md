@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,27,29&height=130&width=1500&animation=fadeIn&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,29&height=130&width=1500&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sohyun.;I'm+Currently+learning+All+Things+"Data".;And+I'm+Currently+learning+"Spring".;I'm+interested+in+"Web".;Thanks+for+coming+to+my+git+hub+😊&size=45&font=Abril+Fatface&center=true&color=FD785B&height=100&vCenter=true&width=1000)](https://git.io/typing-svg)
 
