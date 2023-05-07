@@ -4,10 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Sohyun.;I'm+Currently+learning+All+Things+"Data".;And+I'm+Currently+learning+"Spring".;I'm+interested+in+"Web".;Thanks+for+coming+to+my+git+hub+😊&size=45&font=Abril+Fatface&center=true&color=ffc300&height=100&vCenter=true&width=1000)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nice+too+meet+you.;MachineLearning,+and+DeepLearning.;I+want+to+learn+more.;Html+CSS+and+JavaScript.;thank+you.&size=35&font=Abril+Fatface&center=true&color=ffd60a&height=40&vCenter=true&width=1000)](https://git.io/typing-svg)
-
 <hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=so1454&hide=contribs,prs&show_icons=true&title_color=ffc300&icon_color=ffd60a&text_color=ffffff&bg_color=000814&border_radius=7)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so1454&layout=compact&title_color=ffc300&text_color=ffffff&bg_color=000814&border_radius=7)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=so1454&bg_color=000814&color=ffd60a&title_color=ffc300&line=ffd60a&point=ffd60a&radius=7.5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
